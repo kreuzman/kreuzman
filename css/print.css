@@ -1,0 +1,27 @@
+#cv {
+	margin-top: 20px;
+}
+
+#cv h2 {
+		font-size: 24px;
+}
+
+#cv h3 {
+	font-size: 20px;
+}
+
+#cv h4 {
+	font-size: 18px;
+}
+
+#cv address {
+	margin-bottom: 0;
+}
+
+#cv header address {
+	margin-top: 20px;
+}
+
+#cv .address-offset {
+	margin-left: 18px;
+}
